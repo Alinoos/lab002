@@ -346,9 +346,6 @@ $ git commit -a -m "Code with comments"
 warning: The last gc run reported the following. Please correct the root cause
 and remove .git/gc.log
 Automatic cleanup will not be performed until the file is removed.
-
-warning: Имеется слишком много объектов, на которые нет ссылок; запустите «git prune» для их удаления.
-
 [patch1 6f7a9eb] Code with comments
  1 file changed, 4 insertions(+), 4 deletions(-)
 
@@ -393,8 +390,8 @@ Automatic cleanup will not be performed until the file is removed.
 ```sh
 $ git log master
 //прикреплю скрины из-за длинного вывода
-![изображение](https://github.com/Alinoos/lab02/assets/126507425/64f1d761-8e9f-4aab-98ca-ae443df7b378)
-![изображение](https://github.com/Alinoos/lab02/assets/126507425/25080bfe-2a6a-4b0b-9a07-82940aedbe45)
+![Снимок экрана от 2023-06-08 21-49-07](https://github.com/Alinoos/lab02/assets/126507425/8864eda2-1ceb-4c84-b765-04eab197cbc6)
+![Снимок экрана от 2023-06-08 21-49-51](https://github.com/Alinoos/lab02/assets/126507425/69685011-848f-4f57-9e58-d5e27eca2da5)
 
 ```
 12. Удалите локальную ветку `patch1`.
