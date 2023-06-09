@@ -500,8 +500,7 @@ Everything up-to-date
 
 ```
 5. Убедитесь, что в pull-request появились *конфликтны*.
-![изображение](https://github.com/Alinoos/lab02/assets/126507425/9c8e3a34-f39c-411a-8893-9cef91e11f2e)
-
+![Снимок экрана от 2023-06-09 00-24-00](https://github.com/Alinoos/lab02/assets/126507425/fa724328-6cf2-4fb0-90f8-5c3e9d909190)
 6. Для этого локально выполните **pull** + **rebase** (точную последовательность команд, следует узнать самостоятельно). **Исправьте конфликты**.
 ```sh
 $ git pull origin master
