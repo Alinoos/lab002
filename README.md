@@ -389,11 +389,11 @@ Automatic cleanup will not be performed until the file is removed.
 11. С помощью команды **git log** просмотрите историю в локальной версии ветки `master`.
 ```sh
 $ git log master
+```
 //прикреплю скрины из-за длинного вывода
 ![Снимок экрана от 2023-06-08 21-49-07](https://github.com/Alinoos/lab02/assets/126507425/8864eda2-1ceb-4c84-b765-04eab197cbc6)
 ![Снимок экрана от 2023-06-08 21-49-51](https://github.com/Alinoos/lab02/assets/126507425/69685011-848f-4f57-9e58-d5e27eca2da5)
 
-```
 12. Удалите локальную ветку `patch1`.
 ```sh
 $ git checkout -b origin
